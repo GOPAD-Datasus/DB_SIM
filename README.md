@@ -1,6 +1,6 @@
 # SIM *(Experimental)*
 
-**A lightweight experimental database focused around SINASC**
+**A lightweight version of SIM**
 
 ⚠️ **Note**: This project is currently experimental. Features and documents are still under development and may change without warning. Not recommended for production use.
 - If you are interested in DataSUS's databases, consider checking the sister project with SINASC database [here](https://github.com/GOPAD-Datasus/DB_SINASC)
